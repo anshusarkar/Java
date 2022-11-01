@@ -10,6 +10,6 @@ class CallByreference {
         
         System.out.println("Before change "+ cr.data);
         cr.change(cr);
-        System.out.println("After change"+ cr.data);
+        System.out.println("After change "+ cr.data);
     }
 }
