@@ -6,7 +6,7 @@ class CallByreference {
     }
     public static void main(String[] args)
     {
-        CallByreference cr = new CallByreference(); //cr the object of the class CallByreference
+        CallByreference cr = new CallByreference(); //cr is the object of the class CallByreference
         
         System.out.println("Before change "+ cr.data);
         cr.change(cr);
