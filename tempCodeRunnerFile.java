@@ -1,13 +1,8 @@
-import java.utill.Scanner;
-class area {
-    static area ()
+class MyClass {
+    int x ;
+    public static void main (String args[])
     {
-        System.out.println("Enter the radius :");
-        Scanner sc = new Scanner(System.in);
-        int r = sc.nextInt();
-        
-    }
-    public static void main(String[] args) {
-        area();
+        Myclass obj = new Myclass();
+        System.out.println(obj.x);
     }
 }
