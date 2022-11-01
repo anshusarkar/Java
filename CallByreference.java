@@ -1,8 +1,8 @@
 class CallByreference {
-    int data ;
-    void change(CallByreference cr )
+    int data = 50 ;
+    void change(CallByreference self )
     {
-        cr.data = cr.data + 100;
+        self.data = self.data + 100;
     }
     public static void main(String[] args)
     {
