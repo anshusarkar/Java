@@ -1,9 +1,10 @@
 import java.util.Scanner;
 
 public class Queue {
-    int[] arr = new int[100];
+    static int[] arr = new int[100];
+    static int n ;
 
-    void insert() {
+    static void insert() {
         System.out.print("Specify the size : ");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -14,7 +15,7 @@ public class Queue {
         }
     }
 
-    void display() {
+    static void display() {
         System.out.println("Enter the number of the elements to be displayed : ");
         Scanner ze = new Scanner(System.in);
         int n = ze.nextInt();
@@ -30,6 +31,19 @@ public class Queue {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a choice :");
         int choice = sc.nextInt();
+        while (choice != 4)
+        {
+            
+            if (choice == 1)
+            {
+                insert();
+                
+            }
+            else if (choice == 2)
+            {
+                display();
+            }
+        }
 
     
     }
