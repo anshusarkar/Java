@@ -34,15 +34,15 @@ public class Queue {
         while (choice != 4)
         {
             
-            if (choice == 1)
+            if (choice==1)
             {
                 insert();
-                
             }
             else if (choice == 2)
             {
                 display();
             }
+            
         }
 
     
