@@ -13,7 +13,7 @@ class Constractor {
 
 
     public static void main(String[] args){
-        Constractor c = new Constractor();
+        Constractor c = new Constractor(); //Assinging the constroctor as an varriable object   
         System.out.println(c);
     }
     
