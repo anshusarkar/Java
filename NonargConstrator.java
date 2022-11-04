@@ -1,6 +1,6 @@
 class NonargConstrator{
         int i ;
-    private NonargConstrator(){
+    public NonargConstrator(){ //The acces specifer to this constructor can only be public and private cause static methods dosen't need an object 
         i = 5 ;
         System.out.println("This is a sucessfull Non argument constractor call");
     }
