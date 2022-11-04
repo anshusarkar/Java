@@ -1,6 +1,5 @@
-import java.util.Scanner;
 import java.util.*; //Imports whole set of methods in utill class
-class TakingInputinAnArray {
+class Arrayinput {
     public static void main (String args []){
         Scanner inp = new Scanner(System.in);
         int [] arr  = new int[5];
