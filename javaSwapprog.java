@@ -6,8 +6,8 @@ class javaSwapprog{
         int temp ;
         temp = a+b;
         a = temp-a;
-        System.out.println("The value of a before swapping is :"+a);
+        System.out.println("The value of a before swapping is : "+a);
         b = temp-a;
-        System.out.println("The value of b before swapping is :"+b);
+        System.out.println("The value of b before swapping is : "+b);
     }
 }
