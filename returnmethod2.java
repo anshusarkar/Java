@@ -1,4 +1,4 @@
-class returnmethod2{
+class returnmethod2{ //Dosen't work 
 
    static int returnvalue(int c){
           int i = 1;
