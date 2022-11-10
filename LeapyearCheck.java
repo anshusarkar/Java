@@ -8,7 +8,7 @@ class LeapyearCheck {
             System.out.println("Entered year is leap year");
         }
         else{
-            System.out.println("Entered year is npt a leap year");
+            System.out.println("Entered year is not a leap year");
         }
 
 
