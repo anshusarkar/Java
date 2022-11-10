@@ -12,6 +12,6 @@ class MethodOverloading{
         return (i+j+k) ;
     }
     
-    //Conclusion as here sam method is gettion loaded with multiple data types the process is called method over loading 
+    //Conclusion as here same method is getting loaded with multiple data types the process is called method over loading 
 
 }
