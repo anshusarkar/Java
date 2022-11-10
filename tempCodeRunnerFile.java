@@ -1,10 +1,7 @@
-class MethodOloading{
-    public static void main(String[] args){
-        MethodOverloading obj = new MethodOverloading(); //Creating a Defualt Constroctor
-            System.out.println(add(1,2));
-    }
-    static double add (int i , int j){
-        System.out.println("Sum is done in between two integers");
-        return (i+j);
+class IntegerInp{
+    public static void main(String args[]){
+        System.out.println("Enter a number : ");
+        int x = Integer.parseInt(args[0]);
+        System.out.println("Entered value is :"+ x);
     }
 }
