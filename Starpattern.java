@@ -1,16 +1,16 @@
 class Starpattern {
+   
 
-    public static void main(String[] args) //Pattern printing is differnt in java.....
+    public static void main(String[] args) 
     {
-        for(int i = 1 ; i<5 ; i++)
-        {
-              
-            for(int j =i ; j<5 ; j++)
+         for (int i=0 ; i<5 ;i++)
+         {
+            for (int j=0 ; j<=i ; j++)
             {
-                System.out.println(" *");
-            } 
-            System.out.println("\n");
-        }
+                System.out.print("* ");
+            }
+            System.out.print("\n");
+         }   
     }
     
 }
