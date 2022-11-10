@@ -1,5 +1,4 @@
 class Starpattern {
-   
 
     public static void main(String[] args) //Pattern printing is differnt in java.....
     {
@@ -13,7 +12,5 @@ class Starpattern {
             System.out.println("\n");
         }
     }
-        
-
     
 }
