@@ -1,5 +1,5 @@
 class ParamateriedConstractor {
-    String names ; // Declearing a instance varriable
+    String names ; // Declearing an instance varriable
     ParamateriedConstractor(String name){ // Declearing a Paramateried Constractor with a same data type as the instance varriable as parameter
         names = name ; // Joning the instance varriable and Constracotr parameter
         System.out.println("This is a name : " + name);
