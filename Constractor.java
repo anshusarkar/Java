@@ -6,7 +6,7 @@ class Constractor {
     // 2. Paramateried constructor(constractor with data thypes or parameters)
     // 3. Non argument constractor (same as default constructor but get's inicited at the outside of main method unlike defualt constractor)
      
-    void Constractor(){
+    Constractor(){
         
     }
 
