@@ -15,7 +15,7 @@ class this_to_pass_as_argument_in_the_constructor_call
      b.display();  
     }  
     public static void main(String[] args){  
-        this_to_pass_as_argument_in_the_constructor_call a=new this_to_pass_as_argument_in_the_constructor_call();  
+        this_to_pass_as_argument_in_the_constructor_call a =new this_to_pass_as_argument_in_the_constructor_call();  
   }  
 }
   
