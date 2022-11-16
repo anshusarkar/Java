@@ -11,7 +11,12 @@ class B {
 }
 class C {
     static void method2(){
-        System.out.println("This is a static method call \nHowerever ststic isn't an accessspecifier though");
+        System.out.println("This is a static method call \nHowerever static isn't an accessspecifier though");
+    }
+}
+class D {
+    void method3(){
+        System.out.println("This is defualt constructor");
     }
 }
 
@@ -26,5 +31,7 @@ class AccessSpecifier {
        /*b.method1();*/
        //------------
        C.method2();
+       //------------
+       D d = new D();
     }
 }
