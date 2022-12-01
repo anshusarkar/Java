@@ -15,12 +15,13 @@ class main{
     System.out.print("Enter a number : ");
     Scanner inp = new Scanner(System.in);
     x = inp.nextInt();
+    int a = x;
     int i = 1;
     while(x!=0)
     {
         i=i*x--;
     }
-    System.out.println(i);
+    System.out.println("Factorual of "+a+" is "+i);
    } 
     
 }

@@ -1,6 +1,6 @@
 class CallByreference {
     int data = 50 ;
-    void change(CallByreference cr ) // had to pass the value in the method one is the Class name other is the object of the class  
+    void change(CallByreference cr ) // had to pass the value in the method , one is the Class name other is the object of the class  
     {
         cr.data = cr.data + 100;
     }
