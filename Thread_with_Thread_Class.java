@@ -1,6 +1,6 @@
 public class Thread_with_Thread_Class extends Thread {
 
-    public void A_method(){
+    public void start(){
         System.out.println("This method works !");
     }
 
