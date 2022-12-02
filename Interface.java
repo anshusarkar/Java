@@ -1,12 +1,12 @@
-interface An_interface {
-     default void A_method(){    
+interface An_interface { 
+     default void A_method(){   
     }
 }
 
 
-class Interface implements An_interface {
+class Interface implements An_interface {                                 
     public void A_method(){
-        System.out.println("This is a method of an interface ! ");
+        System.out.println("This method is from an interface !");
     }
     public static void main(String[] args) {
         An_interface in ;
@@ -15,3 +15,4 @@ class Interface implements An_interface {
         in.A_method();
     }
 }
+
