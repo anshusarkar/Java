@@ -1,7 +1,7 @@
 class MethodOverloading{ 
     public static void main(String[] args){
          
-            System.out.println(add(1,2 ,3));
+        System.out.println(add(1,2 ,3));
     }
     static double add (int i , int j){
         System.out.println("Sum is done in between two integers");  //Some how that is returing an double as output

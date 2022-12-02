@@ -1,7 +1,7 @@
 package Thread;
 
 public class thread extends Thread {
-    public void A_method(){
+    public void run(){
         System.out.println("This method runs !");
     }
     public static void main(String[] args) {
