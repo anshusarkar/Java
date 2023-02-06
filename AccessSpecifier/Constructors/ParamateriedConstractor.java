@@ -1,3 +1,4 @@
+package AccessSpecifier.Constructors;
 class ParamateriedConstractor {
     String names ; // Declearing an instance varriable
     ParamateriedConstractor(String name){ // Declearing a Paramateried Constractor with a same data type as the instance varriable as parameter
