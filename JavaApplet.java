@@ -6,3 +6,4 @@ public class JavaApplet extends  Applet {  /*Applet is special type of programe 
 
     }
 }
+
