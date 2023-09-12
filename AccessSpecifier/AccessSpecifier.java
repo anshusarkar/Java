@@ -8,10 +8,16 @@ class B {
     private void method1 (){
         System.out.println("You cann't see me ! ");//Private methods cann't be seen by another class...
     }
+
+    public static void main(String[] args) { 
+        B b = new B();
+        b.method1(); //But can be seen by calling it in the main method of that class
+    }
+
 }
 class C {
     static void method2(){
-        System.out.println("This is a static method call \nHowerever static isn't an accessspecifier though");
+        System.out.println("This is a static method call \n Howerever static isn't an accessspecifier");
     }
 }
 class D {
@@ -28,7 +34,7 @@ class AccessSpecifier {
        a.method();
        //------------
        B b = new B();
-       /*b.method1();*/
+       //b.method1();
        //------------
        C.method2();
        //------------
