@@ -1,0 +1,1 @@
+Java is the programming language created by Sun Microsystems in 1995. It is a statically typed, interpreted, and compiled object-oriented programming language that is crafted using C and C++ libraries.
