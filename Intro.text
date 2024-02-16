@@ -1,1 +1,41 @@
-Java is the programming language created by Sun Microsystems in 1995. It is a statically typed, interpreted, and compiled object-oriented programming language that is crafted using C and C++ libraries. 
+Java is the programming language created by Sun Microsystems in 1995. 
+It is a statically typed, interpreted, and compiled object-oriented programming language that is crafted using C and C++ libraries. 
+
+Note : There is a jshell like python shell
+       To avail ot in terminal use command jshell (Source : Rajdeep) to exit use /exit or ctrl + d
+
+                1) Interpreted : A prog lang is "Interpreted"
+                   when it translates or interpretes from one language to
+                   another example : Java , Python .
+
+                   "And inspiration dosen't mena line by line execution".
+
+                2) Compiled : A prog lang is "Compiled" when it
+                   get's translated into the system understandable byte code.
+                   
+                   "Almost every language is "Compiled" though not every language
+                   is "Interpreted" like C,C++".
+
+                3) Statically typed : A prog lang is "Statically typed" when the language 
+                   is needed to be made aware with data types the language is get's called
+                   a Statically typed language.
+
+                4) Object oriented : A prog lang is "Object oriented" when
+                   principles and concepts of object-oriented programming (OOP)
+
+                   it's a praadigm that ode and data into reusable structures called objects
+                   (object == an instance of a struct in c)
+
+                   (praadigm = Way of writing )
+
+                   these are the featurs of a object oriented lang :
+
+                   Encapsulation: Bundling of data and the methods that operate on that data into a single unit, i.e., an object.
+
+                   Inheritance: Mechanism that allows a new class to inherit properties and behaviors from an existing class.
+
+                   Polymorphism: The ability of different objects to respond to the same message (method call) in different ways.
+
+                   Abstraction: Simplifying complex systems by modeling classes based on the essential properties and behaviors.
+
+                   example of oop lang : Java , C++ , C # , Python , Javascript
