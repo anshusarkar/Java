@@ -14,6 +14,8 @@ Note : There is a jshell like python shell
 
                    like python makes it a little bit slower and for java the job is done by JVM which is more or like an interpreter
 
+                   and "common language runtime" for C#
+
                 2) Compiled : A prog lang is "Compiled" when it
                    get's translated into the system understandable byte code.
                    
