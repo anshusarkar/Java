@@ -16,6 +16,8 @@ Note : There is a jshell like python shell
 
                    and "common language runtime" for C#
 
+                   However interpretes are system specific and installs diffrent versions for eatch of them for different os
+
                 2) Compiled : A prog lang is "Compiled" when it
                    get's translated into the system understandable byte code.
                    
