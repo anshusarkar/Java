@@ -6,9 +6,13 @@ Note : There is a jshell like python shell
 
                 1) Interpreted : A prog lang is "Interpreted"
                    when it translates or interpretes from one language to
-                   another example : Java , Python .
+                   another example : Java , Python , Javascript , ruby , Bash , Powershell
 
-                   "And inspiration dosen't mena line by line execution".
+                   "And inspiration dosen't mean line by line execution"
+
+                   and inspiration provides no need to compile the code as it gives complies it by it self though for some language 
+
+                   like python makes it a little bit slower and for java the job is done by JVM which is more or like an interpreter
 
                 2) Compiled : A prog lang is "Compiled" when it
                    get's translated into the system understandable byte code.
