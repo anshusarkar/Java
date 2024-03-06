@@ -3,6 +3,7 @@ It is a statically typed, interpreted, and compiled object-oriented programming 
 
 Note : There is a jshell like python shell
        To avail ot in terminal use command jshell (Source : Rajdeep) to exit use /exit or ctrl + d
+fact : Even Java has a packagae manager called Maven and gradle, gradle get'sused by Java in app devlopment
 
                 1) Interpreted : A prog lang is "Interpreted"
                    when it translates or interpretes from one language to
