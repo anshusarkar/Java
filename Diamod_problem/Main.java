@@ -1,4 +1,4 @@
-package Diamod_problem; // Java dosen't have diamond problem
+package Diamod_problem; // Java dosen't have diamond problem, maybe it does ... IDK 
 
 interface a {
     public default void method(){
