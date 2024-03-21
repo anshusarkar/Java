@@ -27,7 +27,9 @@ public class Person {
 
         p.setName("Anshu");
         p.getName();
-        System.out.println(p.name);
+        p.age = 0; // Yeah I think you get the getters and setters by now ... and see why it's unnecessary ? :) cause I allocated p.age without getter and setters ...
+        System.out.print(p.name+"'s age is ");
+        System.out.print(p.age);
 
     }
 }
