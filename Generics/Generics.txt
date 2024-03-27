@@ -1,0 +1,12 @@
+In java and in some other languages like C++ and Rust Generics are a way of staticaly declaring the type or the type of class, methods
+
+or any kind of the structures or adstructs that the language supports. For example Interface and adstruct class in Java .
+
+(Don't confuse generics with the return type declasration of C, you know " int func(var, var1){return var}"  where int is the return type of 
+
+variable var  ).
+
+
+In summary the generics are the way of implecitly declaring the "Data types of an abstract i.e. classes or methods". 
+
+mostly used to specify the data types for Arraylist of java.utill pacakages 
