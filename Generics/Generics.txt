@@ -10,3 +10,5 @@ variable var  ).
 In summary the generics are the way of implecitly declaring the "Data types of an abstract i.e. classes or methods". 
 
 mostly used to specify the data types for Arraylist of java.utill pacakages 
+
+Generics are called Templets in C++ BTW 
