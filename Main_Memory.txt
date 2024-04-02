@@ -1,0 +1,37 @@
+Languages like Java, C, C++, C# Their is a concept of main memory that is acutally the Known as stack memory or heap memory 
+
+that is acutally RAM of a system that get's used following the order LIFO for the executions of the programs 
+
+How ever In C and C++ and possibly in the upcomming language Mojo their is and would be a concept of maual memory management 
+
+that i.e. calloc and malloc and freeing them using free which is needed to be done if manual memory management is used .
+
+If an array is used insted then the memory would acutomatically be deallocated from main memory i.e. RAM or in the other words 
+
+after the function call in the main function ends in main function but that dosen't apply to dynamically allocated memory that requires
+
+manual memory management Which some people don't like where some say it's a skill issue .
+
+
+
+What I personally think is that C++'s and C's capibility to manage memory for arrays( not dynamic ) and variables i.e. 
+
+deallocation of memory after use is called Grabage collection in other Languages such as java and C # .... to be honest people love
+
+java beacuse of Grabage collation but it dosen't even have manual memory management... 
+
+But according to AI models and Java and JS has a scope-based vs Program-wide thingy .... which means that the valus to variables in java get;s deallocated
+
+right after use while in C++ the variables stores in stack frame i.e. ram then after the end of main function the vars get's deallocated
+
+how ever use of stack frames is promise to happen after the end of the main function while Grabage collation happens in an unpredictable 
+
+manner depending on the memory usages .... and get's handled by JVM (Java virtual machine) and for C# it's CLR i.e common language runtime
+
+However Python's implementation of Grabage collation is diffrent from Java's implementation java marks and then sweeps or cleans the memory
+
+and states them as a free memory where as python uses reference counting as every tokkens python are a reference of a class when it reaches 0
+
+that would state that every reference to the class is zero and no memory is allocated to it now though python some time gives a reference
+
+based on generation i.e when the class was refered that's called generational reference .
