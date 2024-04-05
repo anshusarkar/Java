@@ -8,7 +8,7 @@ public class Java_utill_Set {
     public static void main(String[] args) {
         // Creating a Set of integers
         
-        Set<Integer> numberSet = new HashSet<>(); // <> part is claaed generics 
+        Set<Integer> numberSet = new HashSet<>(); // <> part is called generics 
                                                   // Thoufgh I don't usderstand why Set class and HashSet class is imported and 
                                                   // their instance numberset is using both HashSet and Set references ?
 
