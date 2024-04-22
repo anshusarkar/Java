@@ -2,7 +2,7 @@ Java is the programming language created by Sun Microsystems employee james gosl
 It is a statically typed, interpreted, and compiled object-oriented programming language that is crafted using C and C++ libraries. 
 
 Note : There is a jshell like python shell
-       To avail ot in terminal use command jshell (Source : Rajdeep) to exit use /exit or ctrl + d
+       To avail it in terminal use command jshell (Source : Rajdeep) and to exit use /exit or ctrl + d
        
 fact : 1)Even Java has a packagae manager called Maven and gradle, gradle get'sused by Java in app devlopment
 
