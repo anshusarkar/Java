@@ -3,7 +3,9 @@ It is a statically typed, interpreted, and compiled object-oriented programming 
 
 Note : There is a jshell like python shell
        To avail ot in terminal use command jshell (Source : Rajdeep) to exit use /exit or ctrl + d
+       
 fact : Even Java has a packagae manager called Maven and gradle, gradle get'sused by Java in app devlopment
+
 
                 1) Interpreted : Interpreted : A prog lang is "Interpreted"
 
@@ -43,7 +45,7 @@ fact : Even Java has a packagae manager called Maven and gradle, gradle get'suse
                    principles and concepts of object-oriented programming (OOP) are followed
 
                    it's a paradigm that packs code and data into reusable structures such as classes and interfaces and their objects
-                   
+
                    (object == an instance of a struct in c or class of java )
 
                    (paradigm = Way of writing code )
