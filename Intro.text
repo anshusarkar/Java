@@ -5,24 +5,34 @@ Note : There is a jshell like python shell
        To avail ot in terminal use command jshell (Source : Rajdeep) to exit use /exit or ctrl + d
 fact : Even Java has a packagae manager called Maven and gradle, gradle get'sused by Java in app devlopment
 
-                1) Interpreted : A prog lang is "Interpreted"
+                1) Interpreted : Interpreted : A prog lang is "Interpreted"
+
                    when it translates or interpretes from one language to
-                   another example : Java , Python , Javascript , ruby , Bash , Powershell
 
-                   "And inspiration dosen't mean line by line execution"
+                   another,
+                   
+                   example : Java , Python , Javascript , ruby , Bash , Powershell
 
-                   and inspiration provides no need to compile the code as it gives complies it by it self though for some language 
+                   "And interpretation dosen't mean line by line execution" it's more like a thing that executes with compiler as a supperset
+
+                   and interpretation provides no need to compile the code as it dosen't generate executables complies it by it self though for some language 
 
                    like python makes it a little bit slower and for java the job is done by JVM which is more or like an interpreter
 
-                   and "common language runtime" for C#
+                   and "common language runtime" for C# but for Java first the .java file get's compiled into a single .class file and then 
+
+                   get's interpreted through it by JVM . 
 
                    However interpretes are system specific and installs diffrent versions for eatch of them for different os
 
+                   though c# and java are not really considered as interpreted lang by many some how !
+
                 2) Compiled : A prog lang is "Compiled" when it
+
                    get's translated into the system understandable byte code.
                    
                    "Almost every language is "Compiled" though not every language
+
                    is "Interpreted" like C,C++,go and rust".
 
                 3) Statically typed : A prog lang is "Statically typed" when the language 
@@ -30,12 +40,12 @@ fact : Even Java has a packagae manager called Maven and gradle, gradle get'suse
                    a Statically typed language.
 
                 4) Object oriented : A prog lang is "Object oriented" when
-                   principles and concepts of object-oriented programming (OOP)
+                   principles and concepts of object-oriented programming (OOP) are followed
 
-                   it's a praadigm that ode and data into reusable structures called objects
-                   (object == an instance of a struct in c)
+                   it's a paradigm that packs code and data into reusable structures such as classes and interfaces and their objects
+                   (object == an instance of a struct in c or class )
 
-                   (praadigm = Way of writing )
+                   (paradigm = Way of writing code )
 
                    these are the featurs of a object oriented lang :
 
