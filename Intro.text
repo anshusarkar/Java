@@ -4,9 +4,13 @@ It is a statically typed, interpreted, and compiled object-oriented programming 
 Note : There is a jshell like python shell
        To avail it in terminal use command jshell (Source : Rajdeep) and to exit use /exit or ctrl + d
        
-fact : 1)Even Java has a packagae manager called Maven and gradle, gradle get'sused by Java in app devlopment
+fact : 1)Even Java has a packagae manager called Maven and gradle, gradle get's used in Java for app devlopment
 
        2)A .JAR file is an archive that consists of multiple class in it hence the full form "Java ARchive" -> JAR
+
+       3)JRE i.e Java runtiome environment is the part of JDK that is responsible for the managing envirionmet for java codes .
+
+
 
 
 Meanings of certains terms that were used :  
