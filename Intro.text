@@ -25,9 +25,9 @@ Meanings of certains terms that were used :
 
                    "And interpretation dosen't mean line by line execution" it's more like a thing that executes with compiler as a supperset
 
-                   and interpretation provides no need to compile the code as it dosen't generate executables complies it by it self though for some language 
+                   and interpretation provides no need to compile the code as it dosen't generate executables, complies it by it self though for some language 
 
-                   like python makes it a little bit slower and for java the job is done by JVM which is more or like an interpreter
+                   like python interpretation makes it a little bit slower and for java the job is done by JVM which is more or like an interpreter
 
                    and "common language runtime" for C# but for Java first the .java file get's compiled into a single .class file and then 
 
