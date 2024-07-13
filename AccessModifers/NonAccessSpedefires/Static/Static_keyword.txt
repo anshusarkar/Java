@@ -1,0 +1,1 @@
+It's a keyword that is used by varriables,  methods to call without obj reference meaning it makes calls more like procedrial languages i.e. C

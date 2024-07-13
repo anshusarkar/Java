@@ -1,0 +1,1 @@
+Defualt is a keyword that is if used with a class makes it visible to it's package only just like private 

@@ -1,0 +1,4 @@
+It's a keyword that's if used onto a meythod of varriable makes them accessible with in the class meaning only the class in which the code is written can only be accessed 
+ .
+
+ 

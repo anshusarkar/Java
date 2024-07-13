@@ -60,12 +60,18 @@ Meanings of certains terms that were used :
 
                    these are the featurs of a object oriented lang :
 
-                   Encapsulation: Bundling of data and the methods that operate on that data into a single unit, i.e., an object.
+                   Encapsulation: using access specifiers and non-access specifiers to hide something from user and to provide security to code .
 
                    Inheritance: Mechanism that allows a new class to inherit properties and behaviors from an existing class.
 
-                   Polymorphism: The ability of different objects to respond to the same message (method call) in different ways.
+                   Polymorphism: The ability of different objects to respond to the same message (method call) in different ways through the use of overriding and overloading
 
-                   Abstraction: Simplifying complex systems by modeling classes based on the essential properties and behaviors.
+                   Abstraction: Simplifying complex systems by modeling classes based on the essential properties and behaviors or in the other word use of classes adn interfaces and
 
                    example of oop lang : Java , C++ , C # , Python , Javascript
+
+                   in java there is total 12 number od access and non-access specifiers :
+
+                   public, defualt, private, final, syncronized, abstract, native, static , volatile, protected, transient  
+
+                   where public, defualt, private and protected are access specifiers rest is non access specifiers 

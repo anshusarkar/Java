@@ -1,0 +1,2 @@
+It's a keyword that's used on varriables to fix it's value and if use of calles it makes the call non inheritable .
+and if used on methods it can't be overridden .
