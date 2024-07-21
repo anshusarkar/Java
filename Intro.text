@@ -1,6 +1,8 @@
 Java is the programming language created by Sun Microsystems employee james gosling in 1995. 
 It is a statically typed, interpreted, and compiled object-oriented programming language that is crafted using C and C++ libraries. 
 
+(Java first compiles.Java files from JVM i.e. Java virtual machine into .class files through  "javac" command then it runs those .class files through interpretation with JRE i.e. Java runtime environment that's actually superset of JVM ( Through "java" command) and JRE and JVM together is called JDK i.e. Java development kit .)
+
 Note : There is a jshell like python shell
        To avail it in terminal use command jshell (Source : Rajdeep) and to exit use /exit or ctrl + d
        
