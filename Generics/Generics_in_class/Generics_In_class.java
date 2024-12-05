@@ -2,7 +2,7 @@ package Generics.Generics_in_class;
 
 class  Generics_In_class<A,B,C> {
 
-    A obj ;                 // Generics are more like assigning data types to structurs in terms of C 
+    A obj ;                 // Generics are more like assigning data types to structurs, in terms of C 
     B obj1;
     C obj2;
 
