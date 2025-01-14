@@ -1,0 +1,13 @@
+Operator	Description	                            Example	        Equivalent To
+=	        Assigns a value to a variable	        x = 10;	        N/A
++=	        Adds and assigns	                    x += 5;	        x = x + 5;
+-=	        Subtracts and assigns	                x -= 3;	        x = x - 3;
+*=	        Multiplies and assigns	                x *= 4;	        x = x * 4;
+/=	        Divides and assigns	                    x /= 2;	        x = x / 2;
+%=	        Computes remainder and assigns	        x %= 3;	        x = x % 3;
+<<=	        Left shifts and assigns     	        x <<= 2;	    x = x << 2;
+>>=	        Right shifts and assigns	            x >>= 2;	    x = x >> 2;
+>>>=	    Unsigned right shifts and assigns	    x >>>= 2;	    x = x >>> 2;
+&=	        Performs bitwise AND and assigns	    x &= 2;	        x = x & 2;
+`	=`	    Performs bitwise OR and assigns	        `x
+^=	        Performs bitwise XOR and assigns	    x ^= 3;	        x = x ^ 3;
