@@ -1,0 +1,7 @@
+Operator	Description	                                Example	        Result
+==	        Equal to (value only for primitives)	    5 == 5          true
+!=	        Not equal to (value only for primitives)	5 != 10	        true
+>	        Greater than	                            10 > 5	        true
+<	        Less than	                                5 < 10	        true
+>=	        Greater than or equal to	                10 >= 10	    true
+<=	        Less than or equal to	                    5 <= 10	        true
